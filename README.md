@@ -3,19 +3,22 @@
 - Gamer 
 - Flutter Developer 
 
-Courses:
+<hr> Courses:
 CNNA 
 CCNP
 Android fudamental
 flutter course in udemy
-E-planet as germany course 
+E-planet as germany course </hr>
 
 <!-- <h3>Where to find me</h3>
 
-business Account: nabufarraj@gmail.com
-
-Linkedin profile: https://www.linkedin.com/in/nurhan-farraj-99867340/
-instagram : https://www.instagram.com/nurhanatef
+<!-- - 
+- personal email : nabufarraj@gmail.com
+- facebook : https://www.facebook.com/nurhanatef
+- linkedIn : https://www.linkedin.com/in/nurhan-farraj-99867340/
+- instagram : https://www.instagram.com/nurhanatef
+- youtube channel : https://www.youtube.com/nurhanatef
+<hr>
 
 
 
